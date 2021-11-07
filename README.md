@@ -8,6 +8,19 @@ Resources:
 The following API is used to display the data on the popup:
 http://website-bucket-12234.s3-website-us-east-1.amazonaws.com/api.json
 
+## Screengrabs
+1. Home Screen
+
+![Home Screen](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HomeScreen.jpeg)
+
+2. Header View
+
+![Header View](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HeaderView.jpeg)
+
+3. Component View
+
+![Component View](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/ComponentView.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
