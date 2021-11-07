@@ -22,7 +22,7 @@ class HomeScreenState extends State<HomeScreen> {
             child: Stack(
               children: <Widget>[
                 Opacity(
-                  opacity: showPopupView ? 0.75 : 1.0,
+                  opacity: showPopupView ? 0.5 : 1.0,
                   child: Container(
                     color: Colors.orange,
                   ),
