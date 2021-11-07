@@ -1,6 +1,12 @@
-# untitled3
+# Hodomojo Assignment
 
-A new Flutter project.
+This application has a main screen with a single button. Clicking on this button launches a scrollable popup.
+This popup has an header and multiple enteries which might be in the form of an image or a text.
+All navigations on the screen work intutively for dismissal and launch of application and the popup.
+
+Resources:
+The following API is used to display the data on the popup:
+http://website-bucket-12234.s3-website-us-east-1.amazonaws.com/api.json
 
 ## Getting Started
 
