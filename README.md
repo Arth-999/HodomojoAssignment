@@ -1,4 +1,4 @@
-# Hodomojo Assignment
+# Travelify
 
 This application has a main screen with a single button. Clicking on this button launches a scrollable popup.
 This popup has an header and multiple enteries which might be in the form of an image or a text.
