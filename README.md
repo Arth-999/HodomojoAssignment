@@ -11,15 +11,15 @@ http://website-bucket-12234.s3-website-us-east-1.amazonaws.com/api.json
 ## Screengrabs
 1. Home Screen
 
-![Home Screen](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HomeScreen.jpeg)
+<img src='https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HomeScreen.jpeg' width="200" >
 
 2. Header View
 
-![Header View](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HeaderView.jpeg)
+<img src='https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/HeaderView.jpeg' width="200">
 
 3. Component View
 
-![Component View](https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/ComponentView.jpeg)
+<img src='https://github.com/Arth-999/HodomojoAssignment/blob/main/Screengrabs/ComponentView.jpeg' width="200">
 
 ## Getting Started
 
